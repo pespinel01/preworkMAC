@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T16:07:51.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="yjRk4shHh9nnUYwCCBgg" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-19T16:14:36.400Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="DSWSvWJLBQN6WTM8md4g" version="15.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="651" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wMbov_LMjufBeD3c2Yzf-22" value="Funcional de Gerencia de TI " style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="50" y="360" width="770" height="630" as="geometry" />
+          <mxGeometry x="50" y="410" width="770" height="710" as="geometry" />
         </mxCell>
         <mxCell id="wMbov_LMjufBeD3c2Yzf-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="wMbov_LMjufBeD3c2Yzf-22" source="wMbov_LMjufBeD3c2Yzf-25" target="wMbov_LMjufBeD3c2Yzf-26">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wMbov_LMjufBeD3c2Yzf-60" value="Administrador de Base de datos&lt;br&gt;(1)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wMbov_LMjufBeD3c2Yzf-22">
-          <mxGeometry x="610" y="335" width="100" height="60" as="geometry" />
+          <mxGeometry x="620" y="425" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMbov_LMjufBeD3c2Yzf-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="wMbov_LMjufBeD3c2Yzf-62" source="wMbov_LMjufBeD3c2Yzf-56" parent="wMbov_LMjufBeD3c2Yzf-22">
           <mxGeometry relative="1" as="geometry">
@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wMbov_LMjufBeD3c2Yzf-66" value="Soporte de Aplicaciones y Mesa de Servicios&lt;br&gt;(1)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wMbov_LMjufBeD3c2Yzf-22">
-          <mxGeometry x="190" y="425" width="110" height="60" as="geometry" />
+          <mxGeometry x="230" y="425" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMbov_LMjufBeD3c2Yzf-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="wMbov_LMjufBeD3c2Yzf-68" source="wMbov_LMjufBeD3c2Yzf-66" parent="wMbov_LMjufBeD3c2Yzf-22">
           <mxGeometry relative="1" as="geometry">
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wMbov_LMjufBeD3c2Yzf-68" value="Soporte de Aplicaciones (1)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wMbov_LMjufBeD3c2Yzf-22">
-          <mxGeometry x="130" y="525" width="110" height="60" as="geometry" />
+          <mxGeometry x="160" y="520" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMbov_LMjufBeD3c2Yzf-69" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="wMbov_LMjufBeD3c2Yzf-70" source="wMbov_LMjufBeD3c2Yzf-66" parent="wMbov_LMjufBeD3c2Yzf-22">
           <mxGeometry relative="1" as="geometry">
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wMbov_LMjufBeD3c2Yzf-70" value="Mesa de Servicios&lt;br&gt;(2)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wMbov_LMjufBeD3c2Yzf-22">
-          <mxGeometry x="250" y="525" width="110" height="60" as="geometry" />
+          <mxGeometry x="230" y="620" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMbov_LMjufBeD3c2Yzf-71" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="wMbov_LMjufBeD3c2Yzf-72" source="wMbov_LMjufBeD3c2Yzf-54" parent="wMbov_LMjufBeD3c2Yzf-22">
           <mxGeometry relative="1" as="geometry">
@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wMbov_LMjufBeD3c2Yzf-72" value="Infraestructura / Servidores y Redes&amp;nbsp;&lt;br&gt;(1)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wMbov_LMjufBeD3c2Yzf-22">
-          <mxGeometry x="381" y="525" width="100" height="60" as="geometry" />
+          <mxGeometry x="381" y="620" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
