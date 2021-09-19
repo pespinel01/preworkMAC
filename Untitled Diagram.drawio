@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T16:21:28.016Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="eVsv7uitw0g10l4dr2uQ" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-19T16:33:36.715Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="nh_0t6ZdVZm6_JTnnMZb" version="15.2.9" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="651" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,129 @@
         </mxCell>
         <mxCell id="wMbov_LMjufBeD3c2Yzf-70" value="Mesa de Servicios&lt;br&gt;(2)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wMbov_LMjufBeD3c2Yzf-22">
           <mxGeometry x="230" y="620" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="rFYpLIOfpkJOPxzsCAQV">
+    <mxGraphModel dx="651" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-0" />
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-1" parent="KgDI0uKv23Rf-OqfgUmb-0" />
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-2" value="Funcional de Gerencia de TI " style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-1">
+          <mxGeometry x="29" y="50" width="770" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="KgDI0uKv23Rf-OqfgUmb-2" source="KgDI0uKv23Rf-OqfgUmb-4" target="KgDI0uKv23Rf-OqfgUmb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Gerencia General" treeRoot="1" id="KgDI0uKv23Rf-OqfgUmb-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+            <mxGeometry x="371" y="50" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-5" value="Gerencia Nacional de TI" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+          <mxGeometry x="381" y="145" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="KgDI0uKv23Rf-OqfgUmb-2" source="KgDI0uKv23Rf-OqfgUmb-5" target="KgDI0uKv23Rf-OqfgUmb-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-7" value="Sub- Gerencia de TI&lt;br&gt;&lt;i&gt;&lt;font color=&quot;#3399ff&quot;&gt;Paulina Espinel&lt;/font&gt;&lt;/i&gt;&amp;nbsp;&lt;br&gt;GYE" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+          <mxGeometry x="60" y="245" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="KgDI0uKv23Rf-OqfgUmb-2" source="KgDI0uKv23Rf-OqfgUmb-5" target="KgDI0uKv23Rf-OqfgUmb-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-9" value="Seguridad Informática&amp;nbsp;&lt;br&gt;(0)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+          <mxGeometry x="650" y="245" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="KgDI0uKv23Rf-OqfgUmb-2" source="KgDI0uKv23Rf-OqfgUmb-5" target="KgDI0uKv23Rf-OqfgUmb-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-11" value="Infraestructura /Servidores y Redes&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;Galo Emperador&lt;/font&gt;&lt;br&gt;GYE" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+          <mxGeometry x="372" y="620" width="119" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-12" value="Jefe de TI - Desarrollo&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;Luis Torres&lt;/font&gt;&lt;br&gt;GYE" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+          <mxGeometry x="611" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KgDI0uKv23Rf-OqfgUmb-2" source="KgDI0uKv23Rf-OqfgUmb-5" target="KgDI0uKv23Rf-OqfgUmb-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="195" as="sourcePoint" />
+            <mxPoint x="580" y="325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="491" y="310" />
+              <mxPoint x="431" y="315" />
+              <mxPoint x="460" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KgDI0uKv23Rf-OqfgUmb-2" source="KgDI0uKv23Rf-OqfgUmb-5" target="KgDI0uKv23Rf-OqfgUmb-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="295" as="sourcePoint" />
+            <mxPoint x="580" y="325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="521" y="310" />
+              <mxPoint x="510" y="315" />
+              <mxPoint x="510" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-15" value="Administrador de Base de datos&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;Edison Morocho&lt;/font&gt;&lt;br&gt;GYE" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+          <mxGeometry x="461" y="430" width="100" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KgDI0uKv23Rf-OqfgUmb-2" source="KgDI0uKv23Rf-OqfgUmb-12" target="KgDI0uKv23Rf-OqfgUmb-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406" y="295" as="sourcePoint" />
+            <mxPoint x="596" y="325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="651" y="480" />
+              <mxPoint x="506" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-17" value="Analista Senior - Desarrollo&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;Fabrizzio Rubio&lt;/font&gt;&lt;br&gt;GYE" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+          <mxGeometry x="601" y="430" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="KgDI0uKv23Rf-OqfgUmb-2" source="KgDI0uKv23Rf-OqfgUmb-7" target="KgDI0uKv23Rf-OqfgUmb-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-19" value="Ejecutivo de Requerimientos y Proyectos&lt;br&gt;&amp;nbsp;&lt;i&gt;&lt;font color=&quot;#3399ff&quot;&gt;Adriana Moreno&lt;/font&gt;&lt;/i&gt;&lt;br&gt;QUITO" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+          <mxGeometry x="50" y="428.75" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="KgDI0uKv23Rf-OqfgUmb-2" source="KgDI0uKv23Rf-OqfgUmb-5" target="KgDI0uKv23Rf-OqfgUmb-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="385" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="431" y="310" />
+              <mxPoint x="381" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-21" value="Soporte de Aplicaciones y Mesa de Servicios&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;Maria Fernanda Castillo&lt;/font&gt; GYE" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+          <mxGeometry x="230" y="427.5" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="KgDI0uKv23Rf-OqfgUmb-2" source="KgDI0uKv23Rf-OqfgUmb-21" target="KgDI0uKv23Rf-OqfgUmb-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404" y="485" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-23" value="Soporte de Aplicaciones&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;Jonathan Veliz&lt;/font&gt;&lt;br&gt;GYE" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+          <mxGeometry x="160" y="520" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="KgDI0uKv23Rf-OqfgUmb-2" source="KgDI0uKv23Rf-OqfgUmb-21" target="KgDI0uKv23Rf-OqfgUmb-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="765" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgDI0uKv23Rf-OqfgUmb-25" value="Mesa de Servicios&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;Leandro Andrade &lt;/font&gt;- GYE&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;Alex Simbaña&lt;/font&gt; - QUITO" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="KgDI0uKv23Rf-OqfgUmb-2">
+          <mxGeometry x="235" y="620" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
